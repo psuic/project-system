@@ -1,5 +1,25 @@
 # Project System
 
+
+
+```bash
+# Run the main in dev
+docker-sync-stack start
+
+docker-compose exec app sh
+
+# Clean dev env
+docker-sync-stack clean
+
+# Debug the service
+docker-compose exec app bash
+```
+
+# Installation
+
+https://dev.to/kovah/cut-your-docker-for-mac-response-times-in-half-with-docker-sync-1e8j
+
+
 ## How to use
 
 Clone this repository:

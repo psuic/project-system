@@ -1,4 +1,4 @@
-import fetch from 'isomorphic-unfetch'
+// import fetch from 'isomorphic-unfetch'
 import Head from 'next/head'
 
 export default class IndexPage extends React.Component {
