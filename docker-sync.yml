@@ -1,0 +1,6 @@
+version: "2"
+syncs:
+  unison-server:
+    notify_terminal: true
+    src: './'
+    sync_excludes: ['.next','.git', '.idea', 'node_modules']
