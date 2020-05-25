@@ -8,8 +8,7 @@ const IndexPage = () => (
     <h1>Hello Next.js 👋</h1>
     <p>
       <>
-        <Button variant="primary">Primary</Button>{" "}
-        <Button variant="secondary">Secondary</Button>{" "}
+       
       </>
     </p>
   </Layout>
