@@ -45,5 +45,5 @@ If you navigate to `http://localhost:3001/` you will see a [Next.js](https://git
 
 You have your API server running at `http://localhost:3001/api/kittens`
 
-Thanks:
+## Thanks
 - [nextjs-express-mongoose-crudify-boilerplate](https://github.com/tomsoderlund/nextjs-express-mongoose-crudify-boilerplate) for showing me how to use next.js with express and mongo
